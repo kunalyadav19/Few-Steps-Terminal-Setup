@@ -24,6 +24,11 @@ brew install starship
 ```
 
 ### **3. Build from Source (Rust/Cargo)**
+** Easy to Install : Preset ***
+
+```bash
+starship preset gruvbox-rainbow -o ~/.config/starship.toml
+```
 1. Install Rust:
    ```bash
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
